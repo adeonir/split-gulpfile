@@ -6,7 +6,7 @@ Based on: [Splitting a gulpfile into multiple files](http://macr.ae/article/spli
 
 `git clone https://github.com/adeonir/split-gulpfile.git your_project`
 
-`npm install
+`npm install`
 
 ## Configuration
 
@@ -51,6 +51,7 @@ Put your news tasks as follows:
 ```
 gulp.task('styles', getTask('styles'));
 ```
+## Enjoy
 
 Write your code on `scr` folder.
 
